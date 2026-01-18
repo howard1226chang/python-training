@@ -1,0 +1,7 @@
+n1 = float(input("請輸入矩形的長:"))
+print("")
+n2 = float(input("請輸入矩形的寬:"))
+a = int(2*(n1+n2))
+print(f"矩形的周長為: {a}")
+b = int(n1*n2)
+print(f"矩形的面積為: {b}")
