@@ -8,5 +8,5 @@ for i in range(10):
             temp = max_lt[o]
             max_lt[o] = num
             num = temp
-            print(max_lt)
-#print(max_lt)
+print(max_lt)
+
